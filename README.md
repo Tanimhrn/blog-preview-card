@@ -4,7 +4,7 @@ This is a solution to the **Blog Preview Card** challenge on [Frontend Mentor](h
 
 ## 🖼️ Screenshot
 
-![Blog Preview Card Screenshot](./screenshot.png)
+![Blog Preview Card Screenshot](images./screenshot.png)
 
 ## 📍 Live Site
 
